@@ -46,7 +46,7 @@ int main(int argc, char **argv) {
 	// 2. Initialisation et lancement de l'interface utilisateur
 
 	try {
-		ChatUI chatUI(chat, "chatThroughThePipe");
+		ChatUI chatUI(chat, "chatThroughThePipeForLinux");
 		chatUI.Run();
 	} catch (const exception &e) {
 		cerr << "UI Error: " << e.what() << endl;
