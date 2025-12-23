@@ -59,4 +59,4 @@ Make sure the following libraries are available before building:
 
 * [ ] Improve shutdown handling for clean thread termination
 * [ ] Add robust connection error handling
-* [ ] Ensure clean closing of the setup window after **START CHAT**
+* [x] Ensure clean closing of the setup window after **START CHAT**
