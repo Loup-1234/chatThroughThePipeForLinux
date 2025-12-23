@@ -34,14 +34,14 @@ Run the executable — a configuration window will appear asking for:
 You can skip the GUI and launch directly:
 
 ```bash
-./ChatThroughThePipe <Peer_IP> <Local_Receiver_Port> <Remote_Sender_Port>
+./chatThroughThePipeForLinux <Peer_IP> <Local_Receiver_Port> <Remote_Sender_Port>
 ```
 
 Example (Local Test):
 
 ```bash
-./ChatThroughThePipe 127.0.0.1 27015 27016
-./ChatThroughThePipe 127.0.0.1 27016 27015
+./chatThroughThePipeForLinux 127.0.0.1 27015 27016
+./chatThroughThePipeForLinux 127.0.0.1 27016 27015
 ```
 
 ## 🛠️ Dependencies
