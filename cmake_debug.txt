@@ -1,0 +1,2 @@
+raylib libs: /home/loup/.vcpkg-clion/vcpkg/installed/x64-linux/debug/lib/libraylib.a
+raylib libs fixed: /home/loup/.vcpkg-clion/vcpkg/installed/x64-linux/debug/lib/libraylib.a

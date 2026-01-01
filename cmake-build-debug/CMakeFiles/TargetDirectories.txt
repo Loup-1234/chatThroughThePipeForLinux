@@ -1,0 +1,3 @@
+/home/loup/CLionProjects/chatThroughThePipeForLinux/cmake-build-debug/CMakeFiles/chatThroughThePipeForLinux.dir
+/home/loup/CLionProjects/chatThroughThePipeForLinux/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/loup/CLionProjects/chatThroughThePipeForLinux/cmake-build-debug/CMakeFiles/rebuild_cache.dir
