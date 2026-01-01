@@ -3,7 +3,7 @@ set(CMAKE_HOST_SYSTEM_NAME "Linux")
 set(CMAKE_HOST_SYSTEM_VERSION "6.18.2-2-cachyos")
 set(CMAKE_HOST_SYSTEM_PROCESSOR "x86_64")
 
-
+include("/home/loup/.vcpkg-clion/vcpkg/scripts/buildsystems/vcpkg.cmake")
 
 set(CMAKE_SYSTEM "Linux-6.18.2-2-cachyos")
 set(CMAKE_SYSTEM_NAME "Linux")
