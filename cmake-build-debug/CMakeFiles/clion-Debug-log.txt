@@ -1,4 +1,4 @@
-cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/opt/clion/bin/ninja/linux/x64/ninja -DCMAKE_TOOLCHAIN_FILE=/home/loup/.vcpkg-clion/vcpkg/scripts/buildsystems/vcpkg.cmake -G Ninja -S /home/loup/CLionProjects/chatThroughThePipeForLinux -B /home/loup/CLionProjects/chatThroughThePipeForLinux/cmake-build-debug
+/home/loup/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/loup/.local/share/JetBrains/Toolbox/apps/clion/bin/ninja/linux/x64/ninja -DCMAKE_TOOLCHAIN_FILE=/home/loup/.vcpkg-clion/vcpkg/scripts/buildsystems/vcpkg.cmake -G Ninja -S /home/loup/CLionProjects/chatThroughThePipeForLinux -B /home/loup/CLionProjects/chatThroughThePipeForLinux/cmake-build-debug
 -- The C compiler identification is GNU 15.2.1
 -- The CXX compiler identification is GNU 15.2.1
 -- Detecting C compiler ABI info
@@ -16,6 +16,6 @@ cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/opt/clion/bin/ninja/linux/x
 -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
 -- Found Threads: TRUE
 -- Found OpenGL: /usr/lib/libOpenGL.so
--- Configuring done (0.4s)
+-- Configuring done (1.8s)
 -- Generating done (0.0s)
 -- Build files have been written to: /home/loup/CLionProjects/chatThroughThePipeForLinux/cmake-build-debug

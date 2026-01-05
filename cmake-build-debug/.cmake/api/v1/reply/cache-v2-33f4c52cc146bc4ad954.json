@@ -79,7 +79,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "2"
+			"value" : "1"
 		},
 		{
 			"name" : "CMAKE_CACHE_PATCH_VERSION",
@@ -91,7 +91,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "1"
+			"value" : "2"
 		},
 		{
 			"name" : "CMAKE_COLOR_DIAGNOSTICS",
@@ -115,7 +115,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/usr/bin/cmake"
+			"value" : "/home/loup/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/bin/cmake"
 		},
 		{
 			"name" : "CMAKE_CPACK_COMMAND",
@@ -127,7 +127,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/usr/bin/cpack"
+			"value" : "/home/loup/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/bin/cpack"
 		},
 		{
 			"name" : "CMAKE_CTEST_COMMAND",
@@ -139,7 +139,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/usr/bin/ctest"
+			"value" : "/home/loup/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/bin/ctest"
 		},
 		{
 			"name" : "CMAKE_CXX_COMPILER",
@@ -412,18 +412,6 @@
 			],
 			"type" : "FILEPATH",
 			"value" : "CMAKE_DLLTOOL-NOTFOUND"
-		},
-		{
-			"name" : "CMAKE_EDIT_COMMAND",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Path to cache edit program executable."
-				}
-			],
-			"type" : "INTERNAL",
-			"value" : "/usr/bin/ccmake"
 		},
 		{
 			"name" : "CMAKE_EXECUTABLE_FORMAT",
@@ -707,7 +695,7 @@
 				}
 			],
 			"type" : "UNINITIALIZED",
-			"value" : "/opt/clion/bin/ninja/linux/x64/ninja"
+			"value" : "/home/loup/.local/share/JetBrains/Toolbox/apps/clion/bin/ninja/linux/x64/ninja"
 		},
 		{
 			"name" : "CMAKE_MODULE_LINKER_FLAGS",
@@ -910,18 +898,6 @@
 			"value" : "chatThroughThePipeForLinux"
 		},
 		{
-			"name" : "CMAKE_PROJECT_SPDX_LICENSE",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : ""
-		},
-		{
 			"name" : "CMAKE_RANLIB",
 			"properties" : 
 			[
@@ -963,7 +939,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/usr/share/cmake"
+			"value" : "/home/loup/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/share/cmake-4.1"
 		},
 		{
 			"name" : "CMAKE_SHARED_LINKER_FLAGS",

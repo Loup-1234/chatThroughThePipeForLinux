@@ -1,15 +1,15 @@
 # ninja log v6
-2	1045	1767289041665400703	CMakeFiles/chatThroughThePipeForLinux.dir/src/ui/ChatUI.cpp.o	365149bc5564ac0f
-1045	1089	1767289042707257330	chatThroughThePipeForLinux	3c38e34dfa63a5dc
-2	957	1767289041665239316	CMakeFiles/chatThroughThePipeForLinux.dir/src/network/Chat.cpp.o	91178e8ac610c84c
-2	531	1767289041664969372	CMakeFiles/chatThroughThePipeForLinux.dir/src/network/Sender.cpp.o	f5eba5fbfe23ab5f
-2	694	1767289041665100131	CMakeFiles/chatThroughThePipeForLinux.dir/src/network/Receiver.cpp.o	c6b17c1c89923e3c
-2	688	1767289041664229243	CMakeFiles/chatThroughThePipeForLinux.dir/src/main.cpp.o	f7ef29567c9ff339
-1	42	1767289096013110146	build.ninja	9f0d45b0690bb4a8
-1	42	1767289096012319621	/home/loup/CLionProjects/chatThroughThePipeForLinux/cmake-build-debug/cmake_install.cmake	9f0d45b0690bb4a8
-1	556	1767289102432463884	CMakeFiles/chatThroughThePipeForLinux.dir/src/network/Sender.cpp.o	46a8cc3061600849
-1	677	1767289102430915823	CMakeFiles/chatThroughThePipeForLinux.dir/src/main.cpp.o	796010e01fc7afcb
-1	718	1767289102432579705	CMakeFiles/chatThroughThePipeForLinux.dir/src/network/Receiver.cpp.o	3d4f403694cf71a8
-1	851	1767289102432677891	CMakeFiles/chatThroughThePipeForLinux.dir/src/network/Chat.cpp.o	6873acb7a325c615
 2	949	1767289102432820072	CMakeFiles/chatThroughThePipeForLinux.dir/src/ui/ChatUI.cpp.o	6c295767db7595a6
 949	1012	1767289103378942913	chatThroughThePipeForLinux	4dc2a64f479e1265
+1	851	1767289102432677891	CMakeFiles/chatThroughThePipeForLinux.dir/src/network/Chat.cpp.o	6873acb7a325c615
+1	556	1767289102432463884	CMakeFiles/chatThroughThePipeForLinux.dir/src/network/Sender.cpp.o	46a8cc3061600849
+1	718	1767289102432579705	CMakeFiles/chatThroughThePipeForLinux.dir/src/network/Receiver.cpp.o	3d4f403694cf71a8
+1	677	1767289102430915823	CMakeFiles/chatThroughThePipeForLinux.dir/src/main.cpp.o	796010e01fc7afcb
+1	42	1767472868378580410	build.ninja	9f0d45b0690bb4a8
+1	42	1767472868377580376	/home/loup/CLionProjects/chatThroughThePipeForLinux/cmake-build-debug/cmake_install.cmake	9f0d45b0690bb4a8
+2	756	1767473029456026577	CMakeFiles/chatThroughThePipeForLinux.dir/src/network/Sender.cpp.o	46a8cc3061600849
+2	931	1767473029456147046	CMakeFiles/chatThroughThePipeForLinux.dir/src/network/Receiver.cpp.o	3d4f403694cf71a8
+2	989	1767473029454478587	CMakeFiles/chatThroughThePipeForLinux.dir/src/main.cpp.o	796010e01fc7afcb
+2	1124	1767473029456266042	CMakeFiles/chatThroughThePipeForLinux.dir/src/network/Chat.cpp.o	6873acb7a325c615
+3	1348	1767473029456441285	CMakeFiles/chatThroughThePipeForLinux.dir/src/ui/ChatUI.cpp.o	6c295767db7595a6
+1348	1419	1767473030800514714	chatThroughThePipeForLinux	4dc2a64f479e1265

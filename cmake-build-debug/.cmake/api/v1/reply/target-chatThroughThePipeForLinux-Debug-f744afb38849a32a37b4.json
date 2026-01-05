@@ -27,7 +27,7 @@
 			"/home/loup/.vcpkg-clion/vcpkg/installed/x64-linux/share/raylib/raylib-config.cmake",
 			"/home/loup/.vcpkg-clion/vcpkg/installed/x64-linux/share/glfw3/glfw3Targets.cmake",
 			"/home/loup/.vcpkg-clion/vcpkg/installed/x64-linux/share/glfw3/glfw3Config.cmake",
-			"/usr/share/cmake/Modules/FindOpenGL.cmake"
+			"/home/loup/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/share/cmake-4.1/Modules/FindOpenGL.cmake"
 		],
 		"nodes" : 
 		[
@@ -125,13 +125,13 @@
 			{
 				"command" : 7,
 				"file" : 5,
-				"line" : 831,
+				"line" : 712,
 				"parent" : 16
 			},
 			{
 				"command" : 3,
 				"file" : 5,
-				"line" : 829,
+				"line" : 710,
 				"parent" : 16
 			},
 			{
@@ -142,30 +142,6 @@
 			}
 		]
 	},
-	"codemodelVersion" : 
-	{
-		"major" : 2,
-		"minor" : 9
-	},
-	"compileDependencies" : 
-	[
-		{
-			"backtrace" : 3,
-			"id" : "raylib::@6890427a1f51a3e7e1df"
-		},
-		{
-			"backtrace" : 3,
-			"id" : "glfw::@6890427a1f51a3e7e1df"
-		},
-		{
-			"backtrace" : 3,
-			"id" : "OpenGL::GL::@6890427a1f51a3e7e1df"
-		},
-		{
-			"backtrace" : 3,
-			"id" : "Threads::Threads::@6890427a1f51a3e7e1df"
-		}
-	],
 	"compileGroups" : 
 	[
 		{
@@ -269,25 +245,6 @@
 		],
 		"language" : "CXX"
 	},
-	"linkLibraries" : 
-	[
-		{
-			"backtrace" : 3,
-			"id" : "raylib::@6890427a1f51a3e7e1df"
-		},
-		{
-			"backtrace" : 3,
-			"id" : "glfw::@6890427a1f51a3e7e1df"
-		},
-		{
-			"backtrace" : 3,
-			"id" : "OpenGL::GL::@6890427a1f51a3e7e1df"
-		},
-		{
-			"backtrace" : 3,
-			"id" : "Threads::Threads::@6890427a1f51a3e7e1df"
-		}
-	],
 	"name" : "chatThroughThePipeForLinux",
 	"nameOnDisk" : "chatThroughThePipeForLinux",
 	"paths" : 
